@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderepdate",
+        "uuid": 3460842,
+        "checksum": "fn8ygr"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
